@@ -8,7 +8,8 @@ namespace Git_Github
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia");
-            Console.WriteLine( );
+            Console.WriteLine( "Como você esta?");
+            Console.WriteLine();
         }
     }
 }
